@@ -1,6 +1,6 @@
 {
 	"name": "@lubowiecki/stylelint-config-base",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "Stylelint config for scss files",
 	"main": "index.js",
 	"author": "Dawid Lubowiecki",
