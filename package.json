@@ -1,6 +1,6 @@
 {
 	"name": "@lubowiecki/stylelint-config-base",
-	"version": "1.0.5",
+	"version": "1.0.6",
 	"description": "Stylelint config for scss files",
 	"main": "index.js",
 	"author": "Dawid Lubowiecki",
@@ -8,7 +8,7 @@
 	"dependencies": {
 		"stylelint": "^14.9.1",
 		"stylelint-config-prettier": "^9.0.3",
-		"stylelint-config-standard-scss": "^4.0.0",
+		"stylelint-config-standard-scss": "^5.0.0",
 		"stylelint-prettier": "^2.0.0"
 	},
 	"peerDependencies": {
